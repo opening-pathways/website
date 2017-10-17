@@ -8,7 +8,7 @@ Meet the Co-PI's: Eri(c/k)'s
 
 Meet the data science team:
 
-John Harlow
+John Harlow (first time ever callled data scientist)
 
 Sayali Phatak
 
