@@ -14,7 +14,7 @@ Erik
 
 Meet the data science team:
 
-John Harlow
+John Harlow (first time ever callled data scientist)
 
 Sayali Phatak
 
