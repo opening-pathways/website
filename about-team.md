@@ -3,12 +3,11 @@
 Meet the PI: Dana Lewis
 blah blah blah
 
+
 Meet the Co-PI's: 
+* Eric Hekler is an Associate Professor at ASU & UCSD
 
-Eric
-
-
-Erik
+* Erik
 
   - here we go...
 
