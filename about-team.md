@@ -3,8 +3,14 @@
 Meet the PI: Dana Lewis
 blah blah blah
 
-Meet the Co-PI's: Eri(c/k)'s
+Meet the Co-PI's: 
 
+Eric
+
+
+Erik
+
+  - here we go...
 
 Meet the data science team:
 
