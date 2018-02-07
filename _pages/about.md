@@ -11,4 +11,4 @@ This project is a collaboration between patients and traditional researchers to 
 
 * This research project also includes convening a gathering of experts from all perspectives and stakeholder roles (including nontraditional perspectives) to explore the barriers to various pathways patients can take with research and innovation. The output will be documented for showing the current body of knowledge around various pathways.
 
-* This website content is open source, and all tools and output created by this research project will be open source. You can follow our Github repository – and PR content or tools yourself – to see what is happening in terms of content and tools relevant to this work.
+* This website content is open source ([read more about it here](/everything-is-open-source)), and all tools and output created by this research project will be open source. You can follow our Github repository – and PR content or tools yourself – to see what is happening in terms of content and tools relevant to this work.
