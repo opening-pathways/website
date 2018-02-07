@@ -1,13 +1,13 @@
 # main links
 main:
    - title: "About the project"
-     url: https://danamlewis.github.io/research/about.html
+     url: /about
 
    - title: "Team"
-     url: https://danamlewis.github.io/research/meet-the-team
+     url: /meet-the-team
      
    - title: "Blog"
-     url: https://danamlewis.github.io/research/blog
+     url: /blog
      
 # navigation side bar
 nav:
