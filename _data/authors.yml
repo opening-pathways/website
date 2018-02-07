@@ -1,0 +1,35 @@
+# /_data/authors.yml
+
+Dana Lewis:
+  name: "Dana Lewis"
+  email: "Dana@OpeningPathways.org"
+  bio: "After building her own DIY “artificial pancreas,” Dana Lewis helped found the open source artificial pancreas movement (known as “OpenAPS”), making of safe and effective artificial pancreas technology available (sooner) for people with diabetes around the world. She’s working to scale patient-led innovation and scientific discovery in more patient communities, and is the Principal Investigator of the Opening Pathways project." 
+  avatar: "/assets/img/Dana Lewis_tulips.JPG"
+  twitter: "danamlewis"
+
+Erik Johnston:
+  name: "Erik Johnston"
+  bio: "Erik W. Johnston, Ph.D, is an associate professor in the School for the Future of Innovation in Society and the Director of Policy Informatics at the Decision Theater at Arizona State University. Johnston’s research focuses on policy informatics, the study of how computational and communication technology is leveraged to specifically understand and and realize innovations in patient communities, governance processes, and information interventions. At its simplest, his work tries to reduce the gaps between knowledge creation and use. He is Co-PI on the Opening Pathways project."
+  avatar: "/assets/img/ejohnston.jpg"
+
+Eric Hekler:
+  name: "Eric Hekler"
+  bio: "Dr. Eric Hekler, PhD, is an Associate Professor in the Department of Family Medicine & Public Health in the University of California, San Diego. His research focuses on individualized and “precise” behavior change for fostering long-term health and well-being. He is a Co-PI on the Opening Pathways project." 
+  avatar: "/assets/img/ehekler.png"
+  twitter: "ehekler"
+  
+John Harlow:
+  name: "John Harlow"
+  bio: "John Harlow is a postdoctoral scholar in the MacArthur Foundation Research Network on Opening Governance at the Arizona State University School for the Future of Innovation in Society. He researches strategic intervention points for process innovation in governance. On this project, John will help design and facilitate engagements with stakeholders in healthcare innovation, and work on training materials for other patient communities to become patient researchers." 
+  avatar: "/assets/img/JH_Headshot.jpg"
+  twitter: "dynamicinaction"
+  
+Sayali Phatak:
+  name: "Sayali Phatak"
+  bio: "Sayali Phatak is a Doctoral Student and Research Associate at the School of Nutrition and Health Promotion at Arizona State University. Her work focuses on the design and development of personalized approaches for improving health and well-being; particularly, designing processes and tools to support strategies such as self-experimentation and self-tracking. " 
+  avatar: "/assets/img/sphatak.jpg"
+  
+Keren Hirsch:
+  name: "Keren Hirsch"
+  bio: "Keren Hirsch works in Project Management at Arizona State University’s Decision Theater, an immersive visualization environment. She is passionate about helping to create informed decision-makers that tackle today’s complex issues, such as healthcare, education, and sustainability. Her role as Project Manager allows her to advance these types of research projects in an organized and systematic fashion." 
+  avatar: "/assets/img/kbhirsch.png" 

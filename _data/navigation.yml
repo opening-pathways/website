@@ -1,0 +1,28 @@
+# main links
+main:
+   - title: "About the project"
+     url: https://danamlewis.github.io/research/about.html
+
+   - title: "Team"
+     url: https://danamlewis.github.io/research/meet-the-team
+     
+   - title: "Blog"
+     url: https://danamlewis.github.io/research/blog
+     
+# navigation side bar
+nav:
+  - title: About
+    children:
+      - title: "About the project"
+        url: /about
+      - title: "Meet the team"
+        url: /meet-the-team
+      - title: "Team blog"
+        url: /blog
+
+  - title: External links
+    children:
+      - title: "Project work on Github"
+        url: https://github.com/opening-pathways
+      - title: "Project announcement"
+        url: http://bit.ly/2y2C1Wi
