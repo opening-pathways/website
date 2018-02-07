@@ -3,7 +3,7 @@ title: Everything is open source
 author_profile: true
 author: Dana Lewis
 layout: single
-permalink: /first-post
+permalink: /everything-is-open-source
 comments: true
 ---
 
