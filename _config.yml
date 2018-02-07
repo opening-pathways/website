@@ -13,9 +13,9 @@ title                    : "Opening Pathways"
 title_separator          : "-"
 name                     : "Dana Lewis"
 description              : "Opening pathways for discovery, research, and innovation in health (and healthcare)."
-url                      : https://danamlewis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /research # the subpath of your site, e.g. "/blog"
-repository               : danamlewis/research # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : https://opening-pathways.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : /website # the subpath of your site, e.g. "/blog"
+repository               : opening-pathways/website # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 author:
   github                 : opening-pathways
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
