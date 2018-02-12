@@ -13,21 +13,21 @@ This is a volunteer project with opportunity to hire for part-time (~10 hours/we
 Credit available, if desired, at Arizona State University (ASU) or the University of California, San Diego (UCSD). 
 
 ### Responsibilities
-Statistical code for data visualization, data restructuring, and analysis
+* Statistical code for data visualization, data restructuring, and analysis
 
 ### Requirements
-Experience in Bash and R
-Willingness and ability to learn new tools/languages
+* Experience in Bash and R
+* Willingness and ability to learn new tools/languages
 
 ### Preferred
-Python
-Experience using open source tools (e.g., Github)
+* Python
+* Experience using open source tools (e.g., Github)
 
 ### Desired 
-Some of: Tableau, Predictive Analytics, Forecasting, Data Mining, Machine Learning, Text Analytics, Algorithm Designs, Bayesian Methods
+* Some of: Tableau, Predictive Analytics, Forecasting, Data Mining, Machine Learning, Text Analytics, Algorithm Designs, Bayesian Methods
 
 ### Time commitment
-Flexible, up to 10 hours per week
+* Flexible, up to 10 hours per week
 
 ### What to submit:
 * Github or other web presence as applicable
