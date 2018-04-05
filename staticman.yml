@@ -10,7 +10,7 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "email", "url", "message", "replying_to", origin", "slug"]
+  allowedFields: ["name", "email", "url", "message", "replying_to", "origin", "slug"]
 
   # (*) REQUIRED WHEN USING NOTIFICATIONS
   #
@@ -61,7 +61,7 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  name: "danamlewis.github.io/research"
+  name: "OpeningPathways.org"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
