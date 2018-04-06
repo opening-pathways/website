@@ -52,28 +52,28 @@ This individual evidence pyramid is a logical complement to the external evidenc
 <table>
   <thead>
     <tr>
-      <th style="text-align: left"></th>
+      <th style="text-align: center"></th>
       <th style="text-align: center">External evidence pyramid</th>
-      <th style="text-align: right">Individual evidence pyramid</th>
+      <th style="text-align: center">Individual evidence pyramid</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">How is quality determined?</td>
+      <td style="text-align: center">How is quality determined?</td>
       <td style="text-align: center">Predicting the response of groups</td>
-      <td style="text-align: right">Predicting the future response of an individual</td>
+      <td style="text-align: center">Predicting the future response of an individual</td>
     </tr>
     <tr>
-      <td style="text-align: left">What are the targeted insights? </td>
+      <td style="text-align: center">What are the targeted insights? </td>
       <td style="text-align: center">Insights about what happens in general</td>
-      <td style="text-align: right">Insights about what happens for an individual</td>
+      <td style="text-align: center">Insights about what happens for an individual</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td style="text-align: left">How does it inform decision-making?</td>
+      <td style="text-align: center">How does it inform decision-making?</td>
       <td style="text-align: center">Supports initial decisions when little to no information is available about a specific person (a warm start)</td>
-      <td style="text-align: right">Supports later decisions when some to a lot of information is available about a person (beyond the warm start)</td>
+      <td style="text-align: center">Supports later decisions when some to a lot of information is available about a person (beyond the warm start)</td>
     </tr>
   </tbody>
 </table>
