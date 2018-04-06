@@ -48,6 +48,7 @@ Returning to the patient with type I diabetes, if the patient believes that the 
 ### The Two Pyramids are Complementary 
 
 This individual evidence pyramid is a logical complement to the external evidence pyramid and, in an era of increasing emphasis on self-care and patient empowerment, directly supports the inclusion of individual patient expertise in evidence-based medicine. Their complementary nature related to issues like quality, types of insights gleaned, and how they inform decisions is shown in Table 1.
+
 <table>
   <thead>
     <tr>
@@ -74,6 +75,7 @@ This individual evidence pyramid is a logical complement to the external evidenc
       <td style="text-align: center">Supports initial decisions when little to no information is available about a specific person (a warm start)</td>
       <td style="text-align: right">Supports later decisions when some to a lot of information is available about a person (beyond the warm start)</td>
     </tr>
+  </tbody>
 </table>
 
 Table 1. Illustration on the complementary nature of the two pyramids
