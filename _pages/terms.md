@@ -1,5 +1,5 @@
 ---
-title: Terms of Use
+title: Terms of Agreement
 layout: single
 permalink: /terms
 ---
