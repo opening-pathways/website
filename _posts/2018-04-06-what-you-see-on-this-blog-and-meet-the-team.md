@@ -24,6 +24,4 @@ Each blog post will be identified with the author, and we may also feature guest
 
 Here's a visual of what the posts look like:
 
-![Example of author identified for each blog post](https://github.com/opening-pathways/website/blob/master/assets/img/example_author_post.png)
-
 <img src="/assets/img/example_author_post.png" alt="Example of author identified for each blog post">
