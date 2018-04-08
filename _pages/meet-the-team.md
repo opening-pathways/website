@@ -7,7 +7,7 @@ author_profile: false
 ### Dana Lewis, Principal Investigator (PI)
 
 <img src="/assets/img/Dana Lewis_tulips.JPG" width="267" height="200" align="left" hspace="20" alt="Dana Lewis">
-After building her own DIY “artificial pancreas,” Dana Lewis helped found the open source artificial pancreas movement (known as “<a href="www.OpenAPS.org">OpenAPS</a>”), making of safe and effective artificial pancreas technology available (sooner) for people with diabetes around the world. She is part of the #WeAreNotWaiting movement & engages with patient communities globally to solve healthcare problems in new and innovative ways. She's working to scale patient-led innovation and scientific discovery in more patient communities. She is active on Twitter as <a href="http://twitter.com/danamlewis">@DanaMLewis</a>.
+After building her own DIY “artificial pancreas,” Dana Lewis helped found the open source artificial pancreas movement (known as “<a href="www.OpenAPS.org">OpenAPS</a>”), making safe and effective artificial pancreas technology available (sooner) for people with diabetes around the world. She is part of the #WeAreNotWaiting movement & engages with patient communities globally to solve healthcare problems in new and innovative ways. She's working to scale patient-led innovation and scientific discovery in more patient communities. She is active on Twitter as <a href="http://twitter.com/danamlewis">@DanaMLewis</a>.
 <br>
 
 ### Erik Johnston, Co-PI
