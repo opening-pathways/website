@@ -5,7 +5,7 @@ layout: single
 permalink: /about
 ---
 
-This project is a collaboration between patients and traditional researchers to explore the processes around discovery, research, and innovation in health and healthcare. The project is unique because it is led by a patient as Principal Investigator. The project is supported with grant funding by the Robert Wood Johnson Foundation.
+This project is a collaboration between patients and traditional researchers to explore the processes around discovery, research, and innovation in health and healthcare. The project is unique because it is led by a patient as Principal Investigator. [Learn more about the team here](/meet-the-team). The project is supported with grant funding by the Robert Wood Johnson Foundation.
 
 * We are creating an on-call data science team to support research in the DIY community. Primarily targeted at the diabetes community, this team will provide data science skills and support patients in small-scale research projects with already-collected diabetes data. People will be able to submit ideas and obtain help in furthering investigation of their research question, as well as identifying research questions and methods appropriate for the existing data sets available in the community. [(Click here to learn more)](http://openingpathways.org/work-with-data-science-team).
 
