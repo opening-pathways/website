@@ -97,7 +97,7 @@ With help from some of my amazing sisters-in-law and mother-in-law, I grabbed a 
 * I used the shapes for the first class/economy signs for the tables
 * And we used it to create the favor bags, which contained a thank you note and a snack for the road. 
 
-<img src="/assets/img/luggage_favors.JPG" align=center width="400" height="300" alt="Luggage favors">
+<img src="/assets/img/luggage_favors.JPG" width="400" height="300" alt="Luggage favors">
 
 ### What I liked, and what I would do differently: 
 
