@@ -10,6 +10,8 @@ I am the Principal Investigator for the Opening Pathways project, which means I�
 
 Play on words aside, I’m finally sitting down to write up some of my lessons learned in the first few months of being a PI. Some of these are probably not unique to being a patient in this role, and are similar to other first-time PI learnings, but in either case, I think they are worth documenting and discussing.
 
+<img src="/assets/img/Lessons_learned_DanaMLewis.jpg" width="506" height="253" align="center" hspace="20" alt="@DanaMLewis first lessons learned as an impatient, patient PI"> 
+
 As a reminder, the Opening Pathways project is about a concrete body of work (data science work; gathering expertise from traditional and non-traditional perspectives to document barriers; and developing tools to help people who want to overcome those barriers to innovate and research), and also a meta-examination of the process of how we’re doing this work. 
 
 ## Here is some of what I’ve learned about the experience of being a PI:
