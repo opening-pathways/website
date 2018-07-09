@@ -29,7 +29,7 @@ But in the last two years, I wanted to do even more to share our content, encour
 
 There are different ways to accomplish this, but this was my formula with #2018ADA for poster and oral/symposium presentations: 
 
-<img src="/assets/img/DanaMLewis_scientific_sharing_methods.jpg" width="258" height="600" align="left" hspace="20" alt="Dana's approach for sharing"> 
+<img src="/assets/img/DanaMLewis_scientific_sharing_methods.jpg" width="258" height="600" align="left" hspace="50" alt="Dana's approach for sharing"> 
 
 **Poster:**
 * Develop poster content (review and revise for readability)
@@ -38,6 +38,7 @@ There are different ways to accomplish this, but this was my formula with #2018A
 * Convert to a Twitter thread (threaded, linked tweets of key points)
 
 When the embargo lifts: post your blog post; add the link of the blog post in the first tweet of your Twitter thread along with a picture of your poster; post your Twitter thread [(see example)](https://twitter.com/danamlewis/status/1010527139249246208)!
+
 
 **Oral or Symposium Presentation:**
 * Develop visual slides
@@ -59,8 +60,8 @@ After the presentation: post the blog; and add that link to the top of the threa
   * You can use other things like Google Analytics, but if you don’t have the time, just glancing at bit.ly a few days later (put it on your calendar) gives you a good feedback mechanism to understand if your content is being looked at, and how much relative to other things you sahre.
 * You can also create custom URLs to make it easy for people to see what they’re clicking on in social media.
   *  For example:
-     *  https://diyps.org/2018/06/23/presentations-and-poster-content-from-danamlewis-at-2018ada/ became http://bit.ly/DanaMLewis2018ADA 
-     *  https://openaps.org/2018/06/23/detecting-insulin-sensitivity-changes-for-individuals-with-type-1-diabetes-with-autosensitivity-from-openaps-poster-presented-at-american-diabetes-association-scientific-sessions-2018ada/ became http://bit.ly/2018ADAautosensitivityposter 
+     *  [https://diyps.org/2018/06/23/presentations-and-poster-content-from-danamlewis-at-2018ada/](https://diyps.org/2018/06/23/presentations-and-poster-content-from-danamlewis-at-2018ada/) became [http://bit.ly/DanaMLewis2018ADA](http://bit.ly/DanaMLewis2018ADA) 
+     *  [https://openaps.org/2018/06/23/detecting-insulin-sensitivity-changes-for-individuals-with-type-1-diabetes-with-autosensitivity-from-openaps-poster-presented-at-american-diabetes-association-scientific-sessions-2018ada/](https://openaps.org/2018/06/23/detecting-insulin-sensitivity-changes-for-individuals-with-type-1-diabetes-with-autosensitivity-from-openaps-poster-presented-at-american-diabetes-association-scientific-sessions-2018ada/) became [http://bit.ly/2018ADAautosensitivityposter](http://bit.ly/2018ADAautosensitivityposter )
 
 If you’d like to see examples:
 * My tweet thread for [my poster](https://twitter.com/danamlewis/status/1010527139249246208); [my symposium presentation](https://twitter.com/danamlewis/status/1010609260798103552); and [my oral presentation](https://twitter.com/danamlewis/status/1011373216215035905).
