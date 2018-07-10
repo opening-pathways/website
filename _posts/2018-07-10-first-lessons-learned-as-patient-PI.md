@@ -1,5 +1,5 @@
 ---
-title: [First] Lessons learned as a patient PI
+title: First Lessons learned as a patient PI
 author_profile: true
 author: Dana Lewis
 layout: single
