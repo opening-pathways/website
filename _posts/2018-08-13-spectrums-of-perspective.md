@@ -8,14 +8,12 @@ comments: true
 ---
 *A story and a few examples about the different perspectives we all have in healthcare.*
  
---- 
-A few weeks ago, I was pushing my nephew on a swing at the playground. Another little girl also toddled over behind him, and asked her dad to lift her up at the same time I was setting my nephew into the swing. We adults both started pushing the swings gently. “Daddy, he’s going backward!” the little girl said – because I happened to have placed my nephew in the swing in the opposite direction.
- 
-“Oh, but maybe you’re the one swinging backward!” I joked. “He thinks he’s going forward.”
- 
-The dad said “Yes, it’s all in the perspective.”
- 
----
+>A few weeks ago, I was pushing my nephew on a swing at the playground. Another little girl also toddled over behind him, and asked her dad to lift her up at the same time I was setting my nephew into the swing. We adults both started pushing the swings gently. “Daddy, he’s going backward!” the little girl said – because I happened to have placed my nephew in the swing in the opposite direction.
+>
+>“Oh, but maybe you’re the one swinging backward!” I joked. “He thinks he’s going forward.”
+>
+>The dad said “Yes, it’s all in the perspective.”
+
 
 I am relaying this story because of one theme that’s been circling around our team discussions for quite some time. Namely, the different perspectives that patients have compared to those traditionally working as professionals in the healthcare space (e.g. traditional researchers or clinicians, etc.). Our team has realized most of the time that thorny discussions greatly benefit from recognizing the different perspectives and framings involved for the individuals in a situation. At the surface level, it might appear that these views are “opposing.” But with most of our discussions, what we’ve found is they’re just different. By different, we mean that there are good reasons and goals in each perspective and that, often, the right answer involves working through the tension between these two “good” things. And recognizing the difference often is enough to allow individuals to meaningfully listen to one another, think through why someone else’s perspective has value, and find ways to work through the tensions that emerge from different needs. This creates the space for solutions to problems to form rather than talking past one another.  
 
