@@ -6,7 +6,7 @@ layout: single
 permalink: /spectrums-of-perspective
 comments: true
 ---
-*A story and a few examples about the different perspectives we all have in healthcare.*
+A story and a few examples about the different perspectives we all have in healthcare.
  
 >A few weeks ago, I was pushing my nephew on a swing at the playground. Another little girl also toddled over behind him, and asked her dad to lift her up at the same time I was setting my nephew into the swing. We adults both started pushing the swings gently. “Daddy, he’s going backward!” the little girl said – because I happened to have placed my nephew in the swing in the opposite direction.
 >
