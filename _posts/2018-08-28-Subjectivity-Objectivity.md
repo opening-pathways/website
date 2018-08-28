@@ -1,5 +1,5 @@
 ---
-title: Subjectivity & Objectivity
+title: Subjectivity and Objectivity
 author_profile: true
 author: John Harlow
 layout: single
