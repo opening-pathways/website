@@ -6,7 +6,8 @@ layout: single
 permalink: /subjectivity-objectivity
 comments: true
 ---
-Hi, my name is First Last and I’m a Title in the Sub-Institution at Institution. I’m mainly interested in my research topic and how methodology can create new generalizable knowledge about that topic. I’m working on a grant from federal funder to use methodology on my research topic, and a grant from private foundation to use methodology on my research topic.
+
+>Hi, my name is First Last and I’m a Title in the Sub-Institution at Institution. I’m mainly interested in my research topic and how methodology can create new generalizable knowledge about that topic. I’m working on a grant from federal funder to use methodology on my research topic, and a grant from private foundation to use methodology on my research topic.
  
 That’s my rough [Mad Libs](http://www.madlibs.com/) style template for how people seem to be expected to introduce themselves at the academic meetings, workshops, and conferences I have attended. I have always found it to be more effective at creating a political economy that revealing much about the speaker, but I do understand that it efficiently delivers a summary of a person’s professional academic life. I think that academia has developed this style of introduction partially because of what I call the illusion of objectivity. 
 
