@@ -207,3 +207,9 @@ defaults:
       author_profile: false
       sidebar:
         nav: "nav"
+
+# Adding reCaptch
+reCaptcha:
+  enabled: true
+  siteKey: # "6LdULXEUAAAAAA8gRnCeuC6VqBOTvcA3cfBjdpys"
+  secret: # "Srl3IqAGfd58TvksOUIC8fWKew0bJxAVeoGhSx1Hi0cYu+3bibCF5FkwTeOpJgTEy5F51TRtr+S2Y0jK4BL3CdE03bcSAOKLi8Yk4hxIAr/CjHsKn1nV2ragk2DVH+fJU7mmAaNKd548OvvmKRMXM6PATr06euCRQZLHq6Kp8bg="
