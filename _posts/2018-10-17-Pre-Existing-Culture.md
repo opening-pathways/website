@@ -1,3 +1,12 @@
+---
+title: Pre-Existing Team Culture
+author_profile: true
+author: John Harlow
+layout: single
+permalink: /pre-existing-culture
+comments: true
+---
+
 Our opening pathways team, other than our PI Dana, had been working together for years before Eric and Dana first spoke at the 2016 Quantified Self symposium. I began working with Eric Hekler in mid-2013, with Erik Johnston in early 2014, and Sayali Phatak joined Eric Hekler’s [Designing Health lab](https://www.designinghealth.org/) at ASU in mid-2014. Before beginning our collaboration with Dana, we (meaning, for the remainder of this post, the Opening Pathways team other than Dana) worked on a variety of projects together, including Phoenix’s 2015 [T2050](https://www.phoenix.gov/T2050) transportation plan. Reflecting on this history, I realized that the culture we had established in our previous work is an important part of the context that is likely helping in this Opening Pathways project. My perception is that integrating Dana into our existing working relationships as a new leader was smoother than it would have been for a team forming among people who hadn’t previously worked together.
 
 This post will highlight a few aspects of the established culture that preceded this grant. I’ll explore how they have supported this work, in an effort to foreground them, and not take them for granted, as drivers of what has been achieved through this work.
