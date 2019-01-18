@@ -16,7 +16,7 @@ In full transparency, as per the aims of our project, I’ve included our annual
 
 ---
 
-1. **What did you accomplish during this reporting period?**
+`1.` **What did you accomplish during this reporting period?**
 
 Our project has three core components: 1) Beta-testing the process and methods of an academic-based on-call data science team to support research on data-driven questions from the patient community; 2) Developing and hosting a meeting to bring together diverse stakeholders to discuss challenges, barriers, and opportunities related to patient-driven innovation and research; 3) Developing a toolkit to support patient researchers and innovators for future work, based on the learnings of the first two items. During this reporting (year 1), we heavily focused on #1 and #2, along with other foundational activities for the grant.
  
@@ -38,31 +38,31 @@ Foundational activities included:
 * We worked toward equitable participation by a) ensuring invitations went to diverse participants; b) starting the day with a role-switching activity where traditional and non-traditional participants were (at first) unknowingly provided a ‘economy’ and ‘first class’ experience for entering the meeting; and c) organizing our research team’s roles to ensure that all participant voices would be heard without influence from our biases or strong perspectives on discussion topics.
 * This meeting was extremely successful: our team felt like we achieved equitable participation where all voices were heard and able to participate in the discussion, and we received feedback from participants that in two cases, it was the best-designed and -organized meeting that they had ever participated in. Additionally, we have seen the ripple effect of our conscious meeting design influencing future work, including one of the co-PI’s continued reflection about the importance of bearing witness, and the impact of power dynamics on work in healthcare.
  
-2. **Do you have any stories that capture the impact of this project?**
+`2.` **Do you have any stories that capture the impact of this project?**
 
 There are two elements that articulate the impact of this project. One is the influence it has had on our co-PI, Eric Hekler. His two pivotal blog posts, “bearing witness” and “honoring agency”, are included as an appendix.
  
 The second is an indirect, but related impact of this project. One of our goals inside this grant was to document the meta-processes and decisions related to this grant, particularly because it is the first patient-funded grant that we know of by RWJF. Related to the success of this grant, we have heard that another patient researcher will likely be funded by RWJF. This is a breakthrough of funding directly toward research that needs to be - and thanks to RWJF, is being - prioritized directly by patients, and is a huge step forward. This patient researcher has also given us positive feedback about the meta-documentation and blog posts about this grant’s work and it’s assistance in paving the way for their work to take place.
  
-3. **What, if any, proposed activities were not completed and why, and what are your plans for completing them?**
+`3.` **What, if any, proposed activities were not completed and why, and what are your plans for completing them?**
  
 The implementation of the grant, including paperwork and establishing relationships between the PI and the financial organization (ASU) took more time & distracted from implementing the grant work as quickly as expected. Therefore, the third item of focus (the toolkit), is just being initiated rather than being drafted at this point in time. This work is commencing currently.
 
-4. **Did RWJF assist or hinder you in any way during this period?**
+`4.` **Did RWJF assist or hinder you in any way during this period?**
 
 Our grant officer, Paul Tarini, has been an incredible resource during our work. He was helpful and clear about expectations during the grant application process as well as throughout the grant. Our monthly grant calls have been impactful in helping us assess progress, evaluate pivots/opportunities to take advantage of, and in finding linkages to other individuals and bodies of relevant work.
  
 The old grantee resources (publicly accessible via rwjf.org) are hard to follow - however, the new templates and instructions (such as the template you can download for annual reporting) on the grantee resource hub are very helpful - I found those after commencing our annual reporting process.
  
-5. **For this project, has your organization received funding from other foundations, corporations, or government bodies?**
+`5.` **For this project, has your organization received funding from other foundations, corporations, or government bodies?**
 
 Neither I (Dana Lewis, the PI) or the direct ASU team has received other funding for this work. However, an interested postdoctoral researcher, Dr. Anarina Murillo, received a $5,000 stipend from the Sloan Scholars Mentoring Network of the Social Science Research Council and Alfred P. Sloan Foundation to contribute to our work during summer 2018. Her ability to participate in this research and add unique, independently analysis above and beyond the original grant probably increased the competitiveness of her application.
  
-6. **Is there anything else you want to tell RWJF?**
+`6.` **Is there anything else you want to tell RWJF?**
 
 This grant is unique because a patient, or a non-PhD/non-traditional researcher, is the PI and leading the work, and has established a relationship as a subcontractor with an academic organization (ASU) to carry out the work. This is one successful method for initiating a patient-funded project. However, I would encourage RWJF to consider and explore alternative methods for providing funding and/or resources for patient-funded work. While different organizational relationships might be explored (such as an institution hiring a patient as a faculty appointment, selecting a fiscal hub to be the financial grantee, etc.), RWJF should also consider providing resources similar to that of brand-new PI’s, because patient-PI’s may still not have access to the traditional built-up support mechanisms of institutions, and may benefit from resources such as an assistant or project manager familiar with grant processes who can help navigate the bureaucratic/paperwork requirements of doing the grant work.
  
-7. **What were the main products of the reporting period?**
+`7.` **What were the main products of the reporting period?**
 Our main product has been our website and blog: OpeningPathways.org. It has been submitted as a product. We also created a poster for the American Diabetes Association Scientific Sessions conference in June 2018, which was also submitted as a product.
  
 ---
