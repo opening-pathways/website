@@ -24,7 +24,7 @@ Dr. Eric Hekler, PhD, is an Associate Professor in the Department of Family Medi
 ### John Harlow
 
 <img src="/assets/img/JH_Headshot.jpg" width="146" height="200" align="left" hspace="20" alt="John Harlow"> 
-John Harlow is a postdoctoral scholar in the <a href="http://opening-governance.org">MacArthur Foundation Research Network on Opening Governance</a> at the Arizona State University School for the Future of Innovation in Society. He researches strategic intervention points for process innovation in governance. On this project, John will help design and facilitate engagements with stakeholders in healthcare innovation, and work on training materials for other patient communities to become patient researchers.
+John Harlow is the Emerson College Engagement Lab <a href="https://elab.emerson.edu/people/john-harlow">Smart Cities Research Specialist</a>. He researches strategic intervention points for process innovation in governance. On this project, John will help design and facilitate engagements with stakeholders in healthcare innovation, and work on visualizations of toolkits to support future collaborations between patients and their partners in legacy institutions. He is on Twitter <a href="http://twitter.com/dynamicinaction">@dynamicinaction</a>. 
 
 ### Sayali Phatak
 
