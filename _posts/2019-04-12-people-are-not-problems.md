@@ -30,4 +30,4 @@ As Dr. Linda Williams notes in the fourth challenge above, “Welcomeness matter
 People are not problems to be fixed. They are not class projects or problem statements for a research prompt. People are parts of real, diverse communities who care about the solutions that affect them and the way they are crafted. The community experts with actual lived experience have the knowledge, capacity, and ultimate motivation to organize and get to work. As academics, we can bolster this success and amplify their stories of discovery by contributing resources and guidance. 
 
 ---
-*This post was co-authored by Erik Johnston and Jessica Givens*
+*This post was co-authored by Erik Johnston and [Jessica Givens](https://isearch.asu.edu/profile/2168018)*
