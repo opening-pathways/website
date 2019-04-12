@@ -7,7 +7,7 @@ permalink: /lived-experience-consensus
 comments: true
 ---
 
-As [Dana highlighted](DANA’S BLOG LINK), a problem exists: “patients” and “subjects” feel like they are the subject of conversations about science, not part of those conversations. For all of the reasons Dana highlighted, this is not good for people formerly known as patients/subjects (henceforth, just called a person or people). 
+As [Dana highlighted](/patient-in-the-cage), a problem exists: “patients” and “subjects” feel like they are the subject of conversations about science, not part of those conversations. For all of the reasons Dana highlighted, this is not good for people formerly known as patients/subjects (henceforth, just called a person or people). 
  
 As I’ve thought about this, I’ve come to what some may view as a radical conclusion:
  
