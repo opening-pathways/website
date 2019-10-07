@@ -28,7 +28,7 @@ staticman:
   branch                 : "master"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-logo                     : "assets/img/opening_pathways_logo.svg"
+logo                     : "assets/img/sitelogo.png"
 
 # SEO Related
 google_site_verification :
