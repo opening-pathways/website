@@ -51,7 +51,7 @@ But, if after reading working through the quiz, you don’t feel ready to commit
 
 After completing the quiz, we hope you’ll share your results and start a discussion with your patient partner (new or existing). The partners who have taken the quiz so far and done their own ‘humility audit’ have shared that it has been useful for self-reflection on their current workload and priorities and goals, and useful for enabling alignment with their patient partners. 
 
-We also hope you’ll consider [sharing your own narrative](https://partner.openingpathways.org/submit), perhaps guided by the reflections from your quiz, and inspire other partners who are collaborating with patients as well. [You can see the existing repertoire of partner narratives here](https://partner.openingpathways.org/narratives).
+We also hope you’ll consider [sharing your own narrative](https://partner.openingpathways.org/submit), perhaps guided by the reflections from your quiz, and inspire other partners who are collaborating with patients as well. [You can see the existing library of partner narratives here](https://partner.openingpathways.org/narratives).
 
 ### Open Source
 
