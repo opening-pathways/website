@@ -53,7 +53,7 @@ _(And here’s the full report of our final RWJF report that was submitted)_
 
 The project met its goals:
 
-* We enabled submissions and requests to work with our data science team, and commenced work on several projects, which resulted in one major scientific submission, acceptance, and presentation of a poster at an international scientific/medical conference (see Lewis DM, Leibrand S, Street TJ & Phatak SS. Detecting Insulin Sensitivity Changes for Individuals with Type 1 Diabetes. 2018;67(suppl 1). Available at: https://doi.org/10.2337%2Fdb18-79-LB). 
+* We enabled submissions and requests to work with our data science team, and commenced work on several projects, which resulted in one major scientific submission, acceptance, and presentation of a poster at an international scientific/medical conference (see _Lewis DM, Leibrand S, Street TJ & Phatak SS. Detecting Insulin Sensitivity Changes for Individuals with Type 1 Diabetes. 2018;67(suppl 1). Available at: https://doi.org/10.2337%2Fdb18-79-LB_). 
   * However, we originally theorized success as answering one dozen research questions. We did not receive that many submissions; and many did not follow up after expressing original interest. We did, however, successfully engage those who continued to work with us. 
   * As a result, we have also developed new hypotheses for the most efficient way to fund an initiative to encourage data science around patient research questions, by providing mini-grants to community members with the data science and/or technical experience to partner with the patients with data science questions, along with a specified timeline, to test in the future.
 * We hosted a convening for traditional and non-traditional researchers, innovators, and advocates, carefully designing the meeting to ensure equitable participation.
@@ -62,14 +62,14 @@ The project met its goals:
   * The conversations from the meeting also resulted in the idea for the humility audit/readiness quiz, for which we extended the grant for 6 months in order to complete. 
       * The quiz is already successfully being used by individuals to assess potential partners for their work.
       * The quiz is also being proposed to be used by an entire organization in its work to balance power dynamics between the organization and community partners. 
-* We developed the toolkits as full open source websites (two, instead of the one originally proposed) for patients (patient.OpeningPathways.org) and partners (partner.OpeningPathways.org). 
-* We created 32 blog posts (OpeningPathways.org/blog) from various members of the team reflecting on the work and the meta-themes of this work.
+* We developed the toolkits as full open source websites (two, instead of the one originally proposed) for patients [https://patient.openingpathways.org/](https://patient.openingpathways.org/) and partners ([https://partner.openingpathways.org/](https://partner.openingpathways.org/)). 
+* We created 32 blog posts (http://OpeningPathways.org/blog) from various members of the team reflecting on the work and the meta-themes of this work.
 
 #### 2.	Do you have any stories that capture the impact of this project? 
 
 Another patient has been funded as a PI on a grant project as a result of this project.
 
-Additionally, the humility audit was originally used within our team. It was so powerful that we developed it into an external tool (partner.OpeningPathways.org/quiz), and plan to share it externally and encourage other people and organizations to use it. However, before the tool was even finalized and publicized, another organization (ASU) has included it within a proposal for another grant around community-driven work as a mechanism for balancing power dynamics with community partners for future projects. 
+Additionally, the humility audit was originally used within our team. It was so powerful that we developed it into an external tool (http://partner.OpeningPathways.org/quiz), and plan to share it externally and encourage other people and organizations to use it. However, before the tool was even finalized and publicized, another organization (ASU) has included it within a proposal for another grant around community-driven work as a mechanism for balancing power dynamics with community partners for future projects. 
 
 In addition, the concept of community-driven design is increasingly becoming a foundational part of how the UC San Diego Design Lab is advancing the use of design for helping people. Within this, there is a strong grounding, based in part on the lived experience Dr. Hekler had in this project, on seeking to counteract confident ignorance and emotional blindness towards true meaningful equitable participation, contribution, and benefit from design. 
  
@@ -98,16 +98,16 @@ No.
 
 Paul and (PI Lewis) exchanged other thoughts and feedback regarding the funder-grantee relationship in written form from each of our perspectives in parallel blog posts. Please see http://openingpathways.org/reflections-funder-grantee-relationship and http://openingpathways.org/reflections-funder-grantee-relationship-funder-perspective . 
 
-PI Lewis has also shared advice on our project site (http://openingpathways.org/what-I-want-to-share-with-others-doing-patient-driven-work) for others doing patient-driven work from non-traditional perspectives, and via this post (http://openingpathways.org/first-lessons-learned-as-patient-PI) about some first-time PI learnings. 
+PI Lewis has also shared advice on our project site ([see this post](http://openingpathways.org/what-I-want-to-share-with-others-doing-patient-driven-work)) for others doing patient-driven work from non-traditional perspectives, and via [this post](http://openingpathways.org/first-lessons-learned-as-patient-PI) about some first-time PI learnings. 
 
 #### 7.	What impact do you think the project has had to date? 
 Provide evidence for all statements (e.g., publication in major journals, citations of the project in literature, major press coverage, adoption of the model by other organizations). 
 
 The ‘humility audit’/’readiness quiz’ is being proposed to be adopted by ASU for use in a William T. Grant application, to be used to balance the power dynamic between ASU and community members and organization for joint research and projects moving forward.
 
-The team also developed a commentary on advancing a small data paradigm: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1366-x based in part of this project; particularly the “flipped paradigm” of helping individuals first as a strategy for advancing science. 
+The team also developed [a commentary on advancing a small data paradigm](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1366-x) based in part of this project; particularly the “flipped paradigm” of helping individuals first as a strategy for advancing science. 
 
-The patient (patient.OpeningPathways.org) site is already being used by patients to find inspiration and others like them doing similar work, and the partner toolkit (partner.OpeningPathways.org) is also being used by patient-partner duo’s to strengthen partner relationships and vet potential partnerships. 
+The patient ([https://patient.openingpathways.org/](https://patient.openingpathways.org/)) site is already being used by patients to find inspiration and others like them doing similar work, and the partner toolkit ([https://partner.openingpathways.org/](https://partner.openingpathways.org/)) is also being used by patient-partner duo’s to strengthen partner relationships and vet potential partnerships. 
 
 #### (8 & 9 not included because they have personal contact information for follow up) 
 
@@ -119,9 +119,8 @@ We plan to continue to share & promote use of the readiness quiz for partners; f
 
 Most effective communications have been keynote presentations by the PI that reference this work. For example, PI Lewis gave a presentation in June at the mHealth Training Institute in June 2019, discussing the Opening Pathways work, and was invited to give a similar presentation at ASCO (the major scientific cancer meeting) for cancer researchers & providers in 2020. 
 
-Similarly, PI Lewis’s Twitter activity announcing the grant, during the grant, and launching the final products has been highly effective. See this Twitter thread regarding the project announcement that received 19,000 impressions (https://twitter.com/danamlewis/status/908752572046917632?s=20 ), 
-this thread launching the patient & partner sites (https://twitter.com/danamlewis/status/1187421352812138496?s=20 ), 
-this thread highlighting the initial patient stories shared (https://twitter.com/danamlewis/status/1187455397197537280?s=20 ),
- and this thread highlighting the partner narratives (https://twitter.com/danamlewis/status/1187472801403297792?s=20 ) as examples.
+Similarly, PI Lewis’s Twitter activity announcing the grant, during the grant, and launching the final products has been highly effective. See [this Twitter thread regarding the project announcement that received 19,000 impressions](https://twitter.com/danamlewis/status/908752572046917632?s=20), 
+[this thread launching the patient & partner sites](https://twitter.com/danamlewis/status/1187421352812138496?s=20 ), 
+[this thread highlighting the initial patient stories shared](https://twitter.com/danamlewis/status/1187455397197537280?s=20 ), and [this thread highlighting the partner narratives](https://twitter.com/danamlewis/status/1187472801403297792?s=20 ) as examples.
 
 Key publications include the Opening Pathways blog itself for distributing our work widely among community partners who share in similar work, and doing so throughout the entire life of the grant and not only at key announcement points. 
